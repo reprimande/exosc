@@ -1,5 +1,7 @@
 # OSC
 
+[![Build Status](https://travis-ci.org/naokinomoto/exosc.svg)](https://travis-ci.org/naokinomoto/exosc)
+
 [WIP]
 
 **TODO: Add description**
